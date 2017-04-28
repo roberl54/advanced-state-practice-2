@@ -24,3 +24,5 @@
 * Instead of one hard coded CarListing component, map the the filtered array into a CarListing array
 * Provide the CarListing component with a prop called “car” which should be the object from each map loop
 * Place the CarListing array where it should go in the html
+
+Leslie Robertson
